@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/hyper-prog/smartyaml.svg)](https://pkg.go.dev/github.com/hyper-prog/smartyaml)
+
 SmartYAML - Go package to handle YAML
 ======================================
 
