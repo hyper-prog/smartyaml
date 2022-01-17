@@ -11,6 +11,9 @@ In order to use it you have to get the package
 
 	go get github.com/hyper-prog/smartyaml
 
+*It seems that "go get ..." does not always work above go version 1.16. 
+To workaround this define the GO111MODULE=auto environment variable during go get.*
+
 Check out the https://github.com/hyper-prog/smartjson package to work with JSON
 
 Sample code:
